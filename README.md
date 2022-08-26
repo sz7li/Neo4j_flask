@@ -2,7 +2,7 @@
 
 Simple Flask server with endpoints to interface with Neo4j. See website at http://http://35.183.206.138:7474/browser/
 
-Username, Password = neo4j, test
+authentication: No authentication
 
 Try the following!
 
