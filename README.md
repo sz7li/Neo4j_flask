@@ -1,4 +1,4 @@
-# Neo4j_flask
+# Graph visualization
 
 Simple Flask server with endpoints to interface with Neo4j. See website at http://35.183.206.138:8080, or access the default neo4j view at http://35.183.206.138:7474/browser/
 
